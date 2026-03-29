@@ -1,0 +1,12 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+results/
+temp/
+generate_docx_report.py
+generate_report.py
+Construction_MARL_Project_Report.docx
+project_report.md
+.idea/
+.vscode/
