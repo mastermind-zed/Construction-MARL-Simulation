@@ -55,6 +55,3 @@ python train.py --config config/experiment_config.yaml
 - `config/`: YAML configuration files.
 - `assets/`: Textures and visual assets.
 - `results/`: Training logs and saved models.
-
-## 📄 License
-This project is for research and educational purposes.
