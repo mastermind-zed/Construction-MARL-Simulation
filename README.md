@@ -35,7 +35,7 @@ This simulation provides a high-fidelity 2D environment where a fleet of robots 
    pip install "ray[rllib]" pygame torch pyyaml pettingzoo python-docx
    ```
 
-## 🛠️ Usage
+## Usage
 
 ### Run Visualization
 Watch the robots in action with random policies:
