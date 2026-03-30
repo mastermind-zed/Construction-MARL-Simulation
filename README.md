@@ -49,7 +49,7 @@ Train the fleet using MAPPO:
 python train.py --config config/experiment_config.yaml
 ```
 
-## 📁 Repository Structure
+## Repository Structure
 - `env/`: Core PyGame environment logic.
 - `agents/`: PettingZoo MARL wrappers.
 - `config/`: YAML configuration files.
