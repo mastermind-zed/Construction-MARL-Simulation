@@ -16,7 +16,7 @@ This simulation provides a high-fidelity 2D environment where a fleet of robots 
 - **Premium Visualization**: Built with PyGame, featuring ground textures, robot sprites, and a real-time HUD.
 - **Scalable**: Easily adjust the number of robots and environment parameters via YAML configuration.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 - Windows OS (Optimized for PowerShell)
