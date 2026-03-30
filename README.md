@@ -6,7 +6,7 @@
 
 A Multi-Agent Reinforcement Learning (MARL) framework designed to simulate and optimize autonomous robot coordination in construction environments. This project uses the **MAPPO** (Multi-Agent Proximal Policy Optimization) algorithm to manage fleet logistics, battery constraints, and task allocation.
 
-## 🏗️ Project Overview
+## Project Overview
 
 This simulation provides a high-fidelity 2D environment where a fleet of robots must coordinate to haul materials from a central storage area to various construction zones.
 
